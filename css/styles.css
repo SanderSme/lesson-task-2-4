@@ -1,0 +1,166 @@
+body {
+  background-color: #e5e5e5;
+  margin: 0%;
+}
+
+.inner {
+  margin: 0% auto;
+  max-width: 428px;
+}
+
+.header {
+  height: 48px;
+  background: rgba(118, 228, 235, 1);
+}
+
+.hero-banner1 {
+  float: left;
+  width: 428px;
+  height: 420px;
+  background: rgba(49, 95, 164, 1);
+  margin-right: 20px;
+}
+
+.hero-banner2 {
+  margin-top: 20px;
+  float: right;
+  width: 428px;
+  height: 620px;
+  background: rgba(49, 95, 164, 1);
+}
+
+.picture {
+  float: left;
+  width: 428px;
+  height: 220px;
+  background: rgba(29, 205, 121, 1);
+  margin-top: 20px;
+}
+
+.picture4 {
+  float: left;
+  width: 428px;
+  height: 220px;
+  background: rgba(29, 205, 121, 1);
+  margin-top: 20px;
+}
+
+.picture5 {
+  display: none;
+}
+
+.picture8 {
+  display: none;
+}
+
+.picture9 {
+  display: none;
+}
+
+.picture12 {
+  display: none;
+}
+
+.footer {
+  width: 100%;
+  float: left;
+  height: 162px;
+  background: rgba(192, 24, 135, 1);
+  margin-top: 20px;
+}
+
+@media screen and (min-width: 767px) {
+  body {
+    background-color: #e5e5e5;
+    margin: 0%;
+  }
+
+  .inner {
+    margin: 0% auto;
+    max-width: 987px;
+  }
+
+  .header {
+    height: 48px;
+    background: rgba(118, 228, 235, 1);
+  }
+
+  .hero-banner1 {
+    float: left;
+    width: 399px;
+    height: 620px;
+    background: rgba(49, 95, 164, 1);
+    margin-right: 20px;
+  }
+
+  .hero-banner2 {
+    margin-top: 0;
+    float: right;
+    width: 568px;
+    height: 620px;
+    background: rgba(49, 95, 164, 1);
+  }
+
+  .picture {
+    float: left;
+    width: 231px;
+    height: 220px;
+    background: rgba(29, 205, 121, 1);
+    margin-right: 21px;
+    margin-top: 20px;
+  }
+
+  .picture4 {
+    float: left;
+    width: 231px;
+    height: 220px;
+    background: rgba(29, 205, 121, 1);
+    margin-top: 20px;
+  }
+
+  .picture5 {
+    display: block;
+    float: left;
+    width: 231px;
+    height: 220px;
+    background: rgba(29, 205, 121, 1);
+    margin-right: 21px;
+    margin-top: 20px;
+  }
+
+  .picture8 {
+    display: block;
+    float: left;
+    width: 231px;
+    height: 220px;
+    background: rgba(29, 205, 121, 1);
+    margin-top: 20px;
+  }
+
+  .picture9 {
+    display: block;
+    float: left;
+    width: 231px;
+    height: 220px;
+    background: rgba(29, 205, 121, 1);
+    margin-right: 21px;
+    margin-top: 20px;
+  }
+
+  .picture12 {
+    display: block;
+    float: left;
+    width: 231px;
+    height: 220px;
+    background: rgba(29, 205, 121, 1);
+    margin-top: 20px;
+  }
+
+  .footer {
+    width: 100%;
+    float: left;
+    height: 266px;
+    background: rgba(192, 24, 135, 1);
+    margin-top: 20px;
+  }
+}
